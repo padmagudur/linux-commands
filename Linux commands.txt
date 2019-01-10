@@ -1,0 +1,27 @@
+Linux commands
+
+ls to list files in directories
+ls - ltr -> to list files with permissions
+pwd -> it displays current directory path
+cd-> to go to particular directory
+mkdir-> to create a directory
+rmdir-> to delete directory
+cat,vi-> to diplay contents in a file or to create file
+chmod 777->to change the file permissions
+chmod ->
+ps -ef|grep-> to check if the process is running or not
+ps-> shows process status
+tail -> to display  recent transactions from files
+kill -> to stop the process
+ping -> 
+netstat-> shows network status
+cp-> to copy files from one directory to another directory
+mv-> to rename the file name
+env -> set the evironment variables
+df-> displays free disk space
+top -> displays stored process information
+du -> To retrieve more detailed information about which files use the disk space in a directory
+id-> To check the user running the application,
+
+
+
